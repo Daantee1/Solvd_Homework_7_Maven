@@ -1,0 +1,16 @@
+aaa=2
+ss=1
+be=1
+everyone=1
+kind=1
+honest!=1
+the=1
+ddsds=1
+sss=2
+world=3
+s=1
+and=1
+adsd=1
+hello=1
+to=1
+welcome=1
