@@ -34,9 +34,11 @@ public class App {
             }
         }
         FileUtils.writeLines(fileResults, "UTF-8", wordCountMapOfFileNew.entrySet());
+
     }
 
 
 
-}
 
+
+}
