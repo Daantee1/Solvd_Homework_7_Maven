@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employees>
+    <employee id="5">
+        <name>Kacper</name>
+        <age>23</age>
+        <position>Test Engineer</position>
+        <salary>5000.0</salary>
+        <location>
+            <address>Andersa 5</address>
+            <city>Stalowa Wola</city>
+        </location>
+        <date>2024-10-16 18:50:11</date>
+    </employee>
+    <employee id="6">
+        <name>Paweł</name>
+        <age>23</age>
+        <position>Test Engineer</position>
+        <salary>5000.0</salary>
+        <location>
+            <address>Słowika 36</address>
+            <city>Gdańsk</city>
+        </location>
+        <date>2024-10-16 18:50:11</date>
+    </employee>
+</employees>

@@ -6,6 +6,10 @@
         <age>30</age>
         <position>Software Engineer</position>
         <salary>5000</salary>
+        <location>
+                <city>Warszawa</city>
+            <address>Żwirki i Wigury 7</address>
+        </location>
     </employee>
     <employee>
         <id>2</id>
@@ -13,6 +17,10 @@
         <age>27</age>
         <position>Project Manager</position>
         <salary>6000</salary>
+        <location>
+            <city>Poznań</city>
+            <address>Okulickiego 20</address>
+        </location>
     </employee>
     <employee>
             <id>3</id>
@@ -20,6 +28,10 @@
             <age>40</age>
             <position>CEO</position>
             <salary>10000</salary>
+        <location>
+            <city>Lublin</city>
+            <address>Hutnicza 3</address>
+        </location>
         </employee>
 </employees>
 
