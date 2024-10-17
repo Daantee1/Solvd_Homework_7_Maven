@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Kacper",
+    "surname": "Stańczyk",
+    "age": 23,
+    "position": "Test Engineer"
+  },
+  {
+    "name": "Paweł",
+    "surname": "Kolano",
+    "age": 25,
+    "position": "Manager"
+
+  }
+]
